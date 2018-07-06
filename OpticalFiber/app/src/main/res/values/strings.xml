@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">OpticalFiber</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="n1">Показатель преломления сердцивины, n1</string>
+    <string name="n2">Показатель преломления оболочки, n2</string>
+    <string name="d1">Диаметр сердцевины, d1, мкм</string>
+    <string name="d2">Диаметр оболочки, d2, мкм</string>
+    <string name="lamb_inp">Длина волны источника излучения, λ, мкм</string>
+    <string name="lamb">λ</string>
+    <string name="Main_text">Расчет параметров оптического волокна</string>
+    <string name="type">"Тип профиля показателя преломления волокна"</string>
+    <string name="type_st">Ступенчатое</string>
+    <string name="type_gr">Градиентное</string>
+    <string name="go">Посчитать</string>
+    <string name="cancel">Отмена</string>
+    <string name="calcs">Калькуляторы величин</string>
+    <string name="welc">Добро пожаловать!</string>
+    <string name="db_calc">Децибелы,dB</string>
+    <string name="db_calc_second">Разы,Pвых/Pвх</string>
+    <string name="p1">P на выходе</string>
+    <string name="p2">P на входе</string>
+    <string name="pp">Задать мощности</string>
+    <string name="clear">Очистить</string>
+    <string name="v_inp">Задать нормированную частоту,V</string>
+    <string name="aperture">Чиловая апертура</string>
+    <string name="na">NA =</string>
+    <string name="v">Нормированая частота</string>
+    <string name="v_re">V =</string>
+    <string name="num_mods">Количество мод в волокне</string>
+    <string name="m_res">N =</string>
+    <string name="type_of_v">Тип волокна</string>
+    <string name="lamb_ots">Волоконная длина отсечки</string>
+    <string name="lamd_otsw">Lcf =</string>
+    <string name="critical_angle">Критический угол падения</string>
+    <string name="sin">sin(F) =</string>
+    <string name="F">F =</string>
+    <string name="n_inp_new">Задать показатели преломления</string>
+    <string name="dano">Дано:</string>
+
+    <string-array name="calc_first_scr">
+        <item>Децибелы {-} разы</item>
+        <item>кал2</item>
+        <item>кал3</item>
+        <item>кал4</item>
+    </string-array>
+</resources>
